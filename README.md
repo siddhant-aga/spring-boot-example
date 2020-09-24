@@ -1,4 +1,2 @@
 # spring-boot-example
-bla bla bla
-dummy commit
-ddvd
+blue ocean commit
